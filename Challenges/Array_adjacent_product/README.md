@@ -6,3 +6,6 @@
 
 #Whiteboard
 [Array Adjacent product whiteboard](../../../assets/array_adjacent_productWhiteboard.jpg)
+
+##Solution
+- 
