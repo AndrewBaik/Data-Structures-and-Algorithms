@@ -1,5 +1,7 @@
 # Data Structures and Algorithms
 
 ## Completed DSA Challenges and Implementations
-1. [Reverse Array](/Challenge_ReverseArray/Reverse-Array/README.md)
-2. [Binary Search](/Challenge02_BinarySearch/README.md)
+## Table of Contents
+1. [Reverse Array](Challenges/Reverse_Array/README.md)
+2. [Binary Search](Challenges/BinarySearch/README.md)
+3. [Largest Product](Challenges/Array_adjacent_product/README.md)
