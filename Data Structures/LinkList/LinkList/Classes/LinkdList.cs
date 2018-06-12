@@ -36,7 +36,6 @@ namespace LinkList.Classes
 
             // Assign head to a new Node
             Head = node;
-
         }
 
         // Find a Node O(n)
