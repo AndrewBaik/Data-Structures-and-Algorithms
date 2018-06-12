@@ -6,14 +6,14 @@ namespace LargestProduct
     {
         static void Main(string[] args)
         {
-            string[] test1 = new string[] { 0, 1, 2, 3, 4 };
-            string[] test2 = new string[] { 10, 9, 8, 7, 6, 5 };
+            int[] test1 = new int[] { 0, 1, 2, 3, 4 };
+            int[] test2 = new int[] { 10, 9, 8, 7, 6, 5 };
 
             ReverseArray(test1);
             ReverseArray(test2);
         }
 
-        static string ReverseArray(string[] myArray)
+        static string ReverseArray(int[] myArray)
         {
             string[] reverseArray = new string[myArray.Length];
 
@@ -25,8 +25,8 @@ namespace LargestProduct
                 number++;
             }
 
-            Console.WriteLine(reverseArray);
-            Console.ReadLine();
+            //Console.WriteLine(reverseArray);
+            //Console.ReadLine();
         }
     }
 }
