@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkList", "LinkList\LinkList.csproj", "{94F6C004-AD13-4644-A4ED-81877CCEEFAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkListUnitTest", "LinkListUnitTest\LinkListUnitTest.csproj", "{0901F111-6418-4619-9DA7-14BEA20120EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94F6C004-AD13-4644-A4ED-81877CCEEFAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F6C004-AD13-4644-A4ED-81877CCEEFAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F6C004-AD13-4644-A4ED-81877CCEEFAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F6C004-AD13-4644-A4ED-81877CCEEFAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0901F111-6418-4619-9DA7-14BEA20120EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0901F111-6418-4619-9DA7-14BEA20120EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0901F111-6418-4619-9DA7-14BEA20120EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0901F111-6418-4619-9DA7-14BEA20120EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8193648-9756-4E5A-B756-3D76928642B2}
+	EndGlobalSection
+EndGlobal
