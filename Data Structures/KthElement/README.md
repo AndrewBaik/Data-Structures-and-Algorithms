@@ -3,7 +3,7 @@
 ## Summary
 Write a method for the Linked List class which takes a number, k, as a parameter. Return the node that is k from the end of the linked list. You have access to the Node class and all the properties on the Linked List class as well as the methods created in previous challenges. ​
 
-![K th Element Screenshot](../KthElementScreenShot.jpg.crdownload)
+![K th Element Screenshot](../KthElementScreenShot.jpg)
 
 ## Solution
 - Different than what I've planned on the whiteboard, I've found a different way to approach this problem while I was coding for the solution. Therefore, the code solution will be completely different from the algorithm and pseudocode on the whiteboard.
