@@ -5,4 +5,4 @@
 - Adjacent values be horizontally, vertically, or diagonally connected.
 
 #Whiteboard
-![Array Adjacent product whiteboard](../../../assets/array_adjacent_productWhiteboard.jpg)
+![Array Adjacent product whiteboard](../../assets/array_adjacent_productWhiteboard.jpg)

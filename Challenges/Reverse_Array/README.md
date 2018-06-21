@@ -5,5 +5,3 @@
 
 ## Whiteboard Image
 ![Reverse Array whiteboard image](../../assets/ReverseArrayWhiteboard.jpg)
-
-## Explanation
