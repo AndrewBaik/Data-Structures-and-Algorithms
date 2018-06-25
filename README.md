@@ -12,4 +12,5 @@
 
 - [Data Structure 01.Linked List](Data_Structures/LinkList/README.md)
 - [Data Structure 02.Merge List](Data_Structures/MergeList/MergeLinkedList/README.md)
-- [Data Structure 03.Queue with Stack](Dat_Structures/Queue_With_Stack/Queue_With_Stack/README.md)
+- [Data Structure 03.Queue with Stack](Data_Structures/Queue_With_Stack/Queue_With_Stack/README.md)
+- [Data Structure 04.Binary Tree and Binary Search Tree](Data_Structures/Trees/README.md)
