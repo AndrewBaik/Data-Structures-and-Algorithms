@@ -29,6 +29,29 @@ namespace Trees.Classes
         }
 
 
+        public void BreadthFirst(Node root)
+        {
+            Queue<Node> Breadth = new Queue<Node>();
+
+            Breadth.Enqueue(root);
+
+            while(Breadth.TryPeek(out root))
+            {
+                Node front = Breadth.Dequeue();
+                Console.WriteLine(front.Value);
+
+                if(front.LeftChild != null)
+                {
+                    Breadth.Enqueue(front.LeftChild);
+                }
+                if(front.RightChild != null)
+                {
+                    Breadth.Enqueue(front.RightChild);
+                }
+            }
+        }
+
+
 
         public void InOrder(Node root)
         {
