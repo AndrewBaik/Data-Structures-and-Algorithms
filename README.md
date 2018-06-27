@@ -14,3 +14,5 @@
 - [Data Structure 02.Merge List](Data_Structures/MergeList/MergeLinkedList/README.md)
 - [Data Structure 03.Queue with Stack](Data_Structures/Queue_With_Stack/Queue_with_Stack/README.md)
 - [Data Structure 04.Binary Tree and Binary Search Tree](Data_Structures/Trees/README.md)
+- [Data Structure 05.Fizz Buzz Tree](Data_Structures/FizzBuzz_Tree/README.md)
+
