@@ -9,6 +9,7 @@
 - [Challenge 05.Stack and Queue](Challenges/Stack_and_Queue/README.md)
 - [Challenge 06.Animal Shelter](Challenges/AnimalShelter/AnimalShelter/README.md)
 - [Challenge 07.Multi-Bracket Validation](Challenges/MultiBracket_Validation/README.md)
+- [Challenge 08.Maximum Value in Binary Tree](Challenges/Max_Value/README.md)
 
 - [Data Structure 01.Linked List](Data_Structures/LinkList/README.md)
 - [Data Structure 02.Merge List](Data_Structures/MergeList/MergeLinkedList/README.md)
