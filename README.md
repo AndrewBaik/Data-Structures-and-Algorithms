@@ -15,4 +15,5 @@
 11. [Data Structure 03.Queue with Stack](Data_Structures/Queue_With_Stack/Queue_with_Stack/README.md)
 12. [Data Structure 04.Binary Tree and Binary Search Tree](Data_Structures/Trees/README.md)
 13. [Data Structure 05.Fizz Buzz Tree](Data_Structures/FizzBuzz_Tree/README.md)
-14. [Graphs 01.Implement Graph](Graphs/Implement_Graph/README.md)
+14. [Graphs 01.Implement Graph](Data_Structures/Graphs/Implement_Graph/README.md)
+15. [Graphs 02.Get Edge](Data_Structures/Graphs/GetEdges/README.md)
