@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetEdges", "GetEdges\GetEdges.csproj", "{DDC839DC-79AD-4D72-A352-A35B08F9B10A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{8AF7FBB8-02FB-440F-9D03-C6727DB2E23E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC839DC-79AD-4D72-A352-A35B08F9B10A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC839DC-79AD-4D72-A352-A35B08F9B10A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC839DC-79AD-4D72-A352-A35B08F9B10A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC839DC-79AD-4D72-A352-A35B08F9B10A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF7FBB8-02FB-440F-9D03-C6727DB2E23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF7FBB8-02FB-440F-9D03-C6727DB2E23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF7FBB8-02FB-440F-9D03-C6727DB2E23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF7FBB8-02FB-440F-9D03-C6727DB2E23E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DC241D0-D51F-400F-92D1-DC22168A9791}
+	EndGlobalSection
+EndGlobal
