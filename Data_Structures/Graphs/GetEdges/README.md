@@ -5,7 +5,7 @@
 - Each cities will be considered a node, and direction of flight and costs will be assigned to its edges between nodes.
 
 ## Whiteboard
-![Get Edge whiteboard](../../assets/GetEdgeWhiteboard.jpg)
+![GetEdge whiteboard](../../../assets/GetEdgeWhiteboard.jpg)
 
 
 ## Implementation

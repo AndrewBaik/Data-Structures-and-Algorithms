@@ -20,8 +20,8 @@
 	- Successfully able to Add an edge.<br/>
 
 ## Visual
-![ScreenShot](../../assets/ImplementGraphScreenshot.PNG)
-![Graph](../../assets/ImplementGraph.PNG)
+![ScreenShot](../../../assets/ImplementGraphScreenshot.PNG)
+![Graph](../../../assets/ImplementGraph.PNG)
 
 
 ## Real life utilization
