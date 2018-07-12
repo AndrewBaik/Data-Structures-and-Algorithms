@@ -8,6 +8,7 @@ part of the island where the root is located.
 ![Find Island Whiteboard](../../../assets/FindIslandWhiteboard.jpg)
 
 ## Solution
+- I have taken a complete different approach then what's displaying on the whiteboard image above.
 - I utilized resursive method to identify each island searched by rows of array. First method 'Find_Island()' triggers the searching process
 by calling 'recursive()', which it searches the integer '1' in each rows and recalls the 'recursive()' with column index found assigned to a row. 
 Each row being searched via 'recursive()' will be marked as visited to avoid redundancy and infinit loop. When recursion stopps and kicks back out to 'Find_Island()', 
