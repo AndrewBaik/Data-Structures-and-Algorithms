@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindIsland", "FindIsland\FindIsland.csproj", "{3910E394-53ED-4FB2-A189-A1B7F23F2525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{02EF5482-1B97-41D4-87F5-C44A209444CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3910E394-53ED-4FB2-A189-A1B7F23F2525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3910E394-53ED-4FB2-A189-A1B7F23F2525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3910E394-53ED-4FB2-A189-A1B7F23F2525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3910E394-53ED-4FB2-A189-A1B7F23F2525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02EF5482-1B97-41D4-87F5-C44A209444CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02EF5482-1B97-41D4-87F5-C44A209444CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02EF5482-1B97-41D4-87F5-C44A209444CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02EF5482-1B97-41D4-87F5-C44A209444CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C912507-B8A6-41C2-8FA5-07D099E11108}
+	EndGlobalSection
+EndGlobal
