@@ -67,6 +67,13 @@ namespace GetEdges
             nodeList.Add(n1);
 
             Console.WriteLine(GetEdge(aJ, nodeList));
+
+            List<Node> nodeList2 = new List<Node>();
+            nodeList2.Add(n5);
+            nodeList2.Add(n8);
+
+            Console.WriteLine(GetEdge(aJ, nodeList));
+
         }
 
 
