@@ -17,7 +17,7 @@
 13. [Data Structure 05.Fizz Buzz Tree](Data_Structures/FizzBuzz_Tree/README.md)
 14. [Data Structure 06.Hash Table](Data_Structures/Hashtables/Hashtables/README.md)
 15. [Data Structure 07.Repeated Word](Data_Structures/Hashtables/RepeatedWord/README.md)
-16. [Data Structure 08.Left Join](Data_Structure/Hashtables/Left_Join/README.md)
+16. [Data Structure 08.Left Join](Data_Structures/Hashtables/Left_Join/README.md)
 17. [Graphs 01.Implement Graph](Data_Structures/Graphs/Implement_Graph/README.md)
 18. [Graphs 02.Get Edge](Data_Structures/Graphs/GetEdges/README.md)
 19. [Graphs 03.Find Island](Data_Structures/Graphs/FindIsland/README.md)

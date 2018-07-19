@@ -9,7 +9,7 @@
 
 
 ## Whiteboard
-![Left Join Whiteboard](../../assets/LeftJoinWhiteboard.jpg)
+![Left Join Whiteboard](../../../assets/LeftJoinWhiteboard.jpg)
 
 
 ## Solution
