@@ -22,4 +22,4 @@
 18. [Graphs 02.Get Edge](Data_Structures/Graphs/GetEdges/README.md)
 19. [Graphs 03.Find Island](Data_Structures/Graphs/FindIsland/README.md)
 20. [Sorting 01.Insertion Sort](Data_Structures/Sorting_Algorithms/InsertionSort/README.md)
-21. [Sorting 02.Merge Sort](Data_Strutures/Sorting_Algorithms/MergeSort/README.md)
+21. [Sorting 02.Merge Sort](Data_Structures/Sorting_Algorithms/MergeSort/README.md)
