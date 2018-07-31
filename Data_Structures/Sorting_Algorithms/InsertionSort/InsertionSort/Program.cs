@@ -8,7 +8,8 @@ namespace InsertionSort
         {
             Console.WriteLine("Hello World!");
 
-            int[] arr = new int[] { 2, 5, 1, 10, 3 };
+            //int[] arr = new int[] { 2, 5, 1, 10, 3 };
+            int[] arr = new int[] { 1,2 ,-3,4,5,6,7,8 };
 
             int[] output = Insertion_Sort(arr);
             foreach(int numb in output)
