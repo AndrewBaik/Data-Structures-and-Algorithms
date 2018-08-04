@@ -6,7 +6,7 @@ namespace MergeSort
     {
         public static void Main(string[] args)
         {
-            int[] input = { 3, 1, 0, 4, 2 };
+            int[] input = { 3, 1, 20, 4, 2 , -2, 15, -32, -1};
 
             Console.Write("Given array:  ");
             foreach(int i in input)
@@ -14,17 +14,21 @@ namespace MergeSort
                 Console.Write(i);
             }
 
-            Merge_Sort(input, 0, input.Length - 1);
+            Merge_Sort(input);
 
             Console.WriteLine();
             Console.Write("Final result:  ");
             foreach (int i in input)
             {
-                Console.Write(i);
+                Console.Write(i + " ");
             }
             Console.WriteLine();
         }
 
+        public static void Merge_Sort(int[] input)
+        {
+            Merge_Sort(input, 0, input.Length - 1);
+        }
 
         public static void Merge_Sort(int[] input, int lowestIndex, int highestIndex)
         {
