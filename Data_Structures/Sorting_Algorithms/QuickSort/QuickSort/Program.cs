@@ -6,72 +6,75 @@ namespace QuickSort
     {
         public static void Main(string[] args)
         {
-            int[] arr = { 5, 2, 7, 3, 8, 1, 4, 6 };
+            int[] arr = { 5, 12, 51, 72, 23, 53, 11, 23, 621, 20 };
 
             Console.WriteLine();
             Console.Write("Given: ");
             foreach (int i in arr)
             {
-                Console.Write(i);
+                Console.Write(i + " ");
             }
 
-            Quick_Sort(arr, 0, arr.Length - 1);
+            Quick_Sort(arr);
 
             Console.WriteLine();
             Console.Write("Result: ");
             foreach (int i in arr)
             {
-                Console.Write(i);
+                Console.Write(i + " ");
             }
         }
 
-        public static void Quick_Sort(int[] input, int low, int high)
+        public static void Quick_Sort(int[] input)
         {
-            if(low < high)
-            {
-                int left = low;
-                int right = high;
-                int pivot = (low + high) / 2;
-
-                // Console WriteLine
-                Console.WriteLine();
-                Console.WriteLine($"Pivot is {input[pivot]}");
-
-                while(left <= right)
-                {
-
-                    while(input[left] < input[pivot])
-                    {
-                        left++;
-                    }
-                    while(input[right] > input[pivot])
-                    {
-                        right--;
-                    }
-
-                    if(left <= right)
-                    {
-
-                    int temp = input[left];
-                    input[left] = input[right];
-                    input[right] = temp;
-
-                    left++;
-                    right--;
-                    }
-            
-                    // Console Write 
-                    // for visual purpose
-                    Console.WriteLine();
-                    foreach(int i in input)
-                    {
-                        Console.Write(i);
-                    }
-                }
-
-                Quick_Sort(input, low, right);
-                Quick_Sort(input, left, high);
-            }
+            Quick_Sort(input, 0, input.Length - 1);
         }
+
+        public static void Quick_Sort(int[] input, int left, int right)
+        {
+            int l = left;
+            int r = right;
+            int pivot = input[(left + right) / 2];
+
+            while (l <= r)
+            {
+                while (input[l] < pivot)
+                {
+                    l++;
+                }
+                while (input[r] > pivot)
+                {
+                    r--;
+                }
+                if (l <= r)
+                {
+                    int swap = input[l];
+                    input[l] = input[r];
+                    input[r] = swap;
+
+                    l++;
+                    r--;
+                }
+            }
+
+            // For visual purpose
+            Console.WriteLine();
+            foreach (int i in input)
+            {
+                Console.Write(i + " ");
+            }
+
+
+            if (left < r)
+            {
+                Quick_Sort(input, left, r);
+            }
+            if (l < right)
+            { 
+                Quick_Sort(input, l, right);
+            }
+
+        }
+
     }
 }

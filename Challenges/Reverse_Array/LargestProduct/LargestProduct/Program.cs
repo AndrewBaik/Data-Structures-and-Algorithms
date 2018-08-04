@@ -25,8 +25,6 @@ namespace LargestProduct
                 number++;
             }
 
-            //Console.WriteLine(reverseArray);
-            //Console.ReadLine();
         }
     }
 }
