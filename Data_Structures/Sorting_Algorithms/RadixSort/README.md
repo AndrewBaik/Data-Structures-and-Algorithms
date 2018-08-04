@@ -9,4 +9,4 @@ I enqueued into the appropriate position in the list of queues. Once all the int
 I dequeued back  to the array. I repeated this process.
 
 ## Whiteboard
-![Radix Sort Screenshot](../../../assets/RadixSortScreenshot.jpg)
+![Radix Sort Screenshot](../../../assets/RadixSortScreenshot.PNG)
